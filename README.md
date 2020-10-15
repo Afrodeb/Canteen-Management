@@ -44,4 +44,4 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
-"This canteen management system that I did some years back, I do support it anymore." 
+"This is a canteen management system that I did some years back, I do not support it anymore." 
